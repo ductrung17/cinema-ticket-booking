@@ -48,7 +48,7 @@
 
 ---
 
-## 📷 Giao diện mẫu
+## 📷 Giao diện
 
 | Người dùng                                   | Quản trị viên                                   |
 | -------------------------------------------- | ----------------------------------------------- |
@@ -62,13 +62,6 @@
 - Cải thiện hiển thị thời gian thực chỗ ngồi còn trống
 - Thêm tính năng đánh giá, bình luận phim
 - Tối ưu hiệu năng tải hình ảnh và truy vấn dữ liệu lớn
-
----
-
-## 🔗 Tài nguyên
-
-- 📹 [Video demo & thuyết trình](#) _(link cập nhật sau)_
-- 💻 [Source code GitHub](https://github.com/ductrung17/cinema-ticket-booking)
 
 ---
 
